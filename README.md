@@ -1,2 +1,2 @@
 # freshInstallScript
-A Windows batch script to install most of my software using chocolately
+A Windows batch script to install most of my software using chocolatey
