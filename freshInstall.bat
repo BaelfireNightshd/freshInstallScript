@@ -6,8 +6,11 @@
 :: development stuff
 choco install git atom python -y
 
-::web browswers
+:: web browswers
 choco install googlechrome firefox -y
 
-::creative stuff
+:: creative stuff
 choco install krita blender gimp -y
+
+:: communications
+choco install discord -y
