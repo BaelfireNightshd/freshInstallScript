@@ -4,7 +4,7 @@
 
 :: Start installing packages
 :: development stuff
-choco install git atom python -y
+choco install atom git hxd python -y
 
 :: web browswers
 choco install googlechrome firefox -y
